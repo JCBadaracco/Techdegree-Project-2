@@ -145,6 +145,7 @@ bio {
  margin-top: 0;
  
 }
+}
 
 @media screen and (min-width: 1024px) {
 .project {
@@ -154,7 +155,7 @@ bio {
   width: 42%;
   margin-right: 19px;
 }
-
+}
 @media screen and (min-width: 1377px) {
 .project {
   
@@ -194,6 +195,6 @@ header {display:flex;
 
 #skills {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row-reverse ;
 }
-    /*  */
+}
