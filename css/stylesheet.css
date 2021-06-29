@@ -208,11 +208,6 @@ li {
   }
 @media screen and (min-width: 1024px) {
 
-  nav { 
-    display: flex;
-    justify-content: space-between;
-  }
-  
   .nav {
     margin: initial;
     align-items: center;
